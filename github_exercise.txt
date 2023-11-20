@@ -1,1 +1,2 @@
-this file is created for git clone from git hub to local computer and github file is changed and local folder is in order changed.
+This file is created for git clone from git hub to local computer (git pull origin main)and github file is changed and local folder is in order changed.
+Git push to github
